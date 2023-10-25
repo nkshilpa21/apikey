@@ -37,6 +37,7 @@ const Storage = (() => {
 
   apiKey: "752e9dc7545f464e76d923447fj27"
   const apikey = "2345"
+  const jtoken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJ2YWx1ZSIsImtleTIiOiJ2YWx1ZTIiLCJpYXQiOjE2MzQxNzgxMTB9.vnXM0oxw05QH1Vs6RsvYp6LaEqFFqZ-NExQMXBgP7Mk"
 
   // const password = "passw"
   
